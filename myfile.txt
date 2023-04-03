@@ -1,0 +1,5 @@
+2023-02-22 - /data/config/mymethod.14.2.3.rdv1.txt 
+-> modifié les quantités
+2023-02-24 - /data/config/mymethod.14.2.3.rdv2.txt 
+-> modifié les quantités 
+
